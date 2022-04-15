@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: Service_1ND
+
+eureka:
+  client:
+    fetch-registry: false
+    register-with-eureka: false
